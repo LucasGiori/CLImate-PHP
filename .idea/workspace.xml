@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa6a9c7f-a7e1-4ae0-a58f-6a4dd71d1515" name="Default Changelist" comment="" />
+    <list default="true" id="aa6a9c7f-a7e1-4ae0-a58f-6a4dd71d1515" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Fatorial.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quadrado.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RaizQuadrada.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arquivo.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598986405497</updated>
-      <workItem from="1598986406688" duration="10104000" />
+      <workItem from="1598986406688" duration="10785000" />
     </task>
     <servers />
   </component>
